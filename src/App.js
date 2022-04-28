@@ -1,10 +1,10 @@
 import './App.css';
-import Index from './components/Navbar/Index';
+import Navbar from './components/Navbar/Navbar';
 
 function App() {
   return (
     <div className="App">
-      <Index />
+      <Navbar />
       <div className='bg-indigo-600 w-full h-screen'>
         
       </div>
